@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://download.exthmui.cn/exthmui/chiron/exthm-11.0-20210530-NUCLEAR-SNAPSHOT-chiron-Vanilla.zip
-  ROM_NAME: MIUI
+  ROM_NAME: Generic Pixel
   TZ: Asia/Shanghai
 
 jobs:
