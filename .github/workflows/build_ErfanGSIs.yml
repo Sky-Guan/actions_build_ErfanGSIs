@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.exthmui.cn/exthmui/chiron/exthm-11.0-20210530-NUCLEAR-SNAPSHOT-chiron-Vanilla.zip
+  ROM_URL: https://netactuate.dl.sourceforge.net/project/cherish-os/device/jasmine_sprout/Cherish-OS-v2.6-20210616-2052-jasmine_sprout-OFFICIAL-GApps.zip
   ROM_NAME: Generic Pixel
   TZ: Asia/Shanghai
 
